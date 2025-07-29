@@ -17,7 +17,7 @@ My primary interests lie in data analysis and machine learning. I enjoy working 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Core Libraries:**
 <p>
@@ -34,7 +34,7 @@ My primary interests lie in data analysis and machine learning. I enjoy working 
 
 ---
 
-### 💼 Projects & Portfolio
+### Projects & Portfolio
 
 I believe in **learning by doing**. This project highlights my learning journey and practical skills:
 
