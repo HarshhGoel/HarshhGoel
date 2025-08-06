@@ -50,10 +50,10 @@ I believe in **learning by doing**. This project highlights my learning journey 
   <i>A note on my language stats: While "Jupyter Notebook" is prominent, it reflects my focus on exploratory data analysis and iterative modeling. A significant portion of my Python scripting and backend logic is developed in VS Code.</i>
 </p>
 <p align="center">
-  <a href="https://github.com/harshu0612">
+  <a href="https://github.com/HarshhGoel">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshu0612&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
   </a>
-  <a href="https://github.com/harshu0612">
+  <a href="https://github.com/HarshhGoel">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu0612&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages Used" />
   </a>
 </p>
