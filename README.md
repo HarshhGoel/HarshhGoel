@@ -11,9 +11,9 @@ I'm currently in my final year at **G.L. Bajaj Institute of Technology & Managem
 
 My primary interests lie in data analysis and machine learning. I enjoy working across the full data lifecycle—from cleaning and exploring data with **Pandas** to building predictive models.
 
--   Focused on strengthening core Python and ML skills
--   Gaining practical experience as a Data Science Intern
--   Reach me at: **csds22092@glbitm.ac.in**
+- Focused on strengthening core Python and ML skills  
+- Gaining practical experience as a Data Science Intern  
+- Reach me at: **csds22092@glbitm.ac.in**
 
 ---
 
@@ -40,7 +40,7 @@ I believe in **learning by doing**. This project highlights my learning journey 
 
 | Project Name                                                 | Description                                                                                                                                                             |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [**Basicpython**](https://github.com/harshu0612/Basicpython) | A repository documenting my foundational journey in Python, covering core concepts, data types, and data structures—a stepping stone into the world of data science. |
+| [**Basicpython**](https://github.com/harshu0612/Basicpython) | A repository documenting my foundational journey in Python, covering core concepts, data types, and data structures—a stepping stone into the world of data science.   |
 
 ---
 
@@ -51,16 +51,16 @@ I believe in **learning by doing**. This project highlights my learning journey 
 </p>
 <p align="center">
   <a href="https://github.com/HarshhGoel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshu0612&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshhGoel&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
   </a>
   <a href="https://github.com/HarshhGoel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu0612&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages Used" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshhGoel&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages Used" />
   </a>
 </p>
 
 ---
 
-###  Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/harsh-goel" target="_blank">
