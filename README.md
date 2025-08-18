@@ -1,72 +1,73 @@
 <div align="center">
-
-# BachNest (Bachelor Help Desk)
-
-A unified platform designed to simplify the process of settling into a new city for students, bachelors, and young professionals. BachNest provides direct access to verified flats, rental appliances, and trusted local services, while also fostering a unique community-driven marketplace.
-
+<h1>Hi, I'm Harsh Goel</h1>
+<h3>Final-Year Engineering Student | Data Science Intern at Ducat | Aspiring Data Analyst & Data Scientist</h3>
 </div>
 
 ---
 
-<div align="center">
+### Career Overview
 
-## Core Problem
+I'm currently in my final year at **G.L. Bajaj Institute of Technology & Management**, pursuing a degree in engineering. As a **Data Science Intern at Ducat**, I am translating academic concepts into hands-on, real-world applications.
 
-</div>
+My primary interests lie in data analysis and machine learning. I enjoy working across the full data lifecycle—from cleaning and exploring data with **Pandas** to building predictive models.
 
-Relocating to a new city presents significant challenges: finding reliable housing without high brokerage fees, sourcing affordable essential appliances, and identifying trustworthy household help. This process is often fragmented, expensive, and stressful for newcomers who lack local contacts and resources.
-
----
-
-<div align="center">
-
-## Our Solution
-
-</div>
-
-BachNest addresses these challenges by creating a centralized, transparent ecosystem. Our platform is built on trust and convenience, offering a single point of contact for essential services. By verifying all listings and fostering a peer-to-peer community, we ensure quality and reliability, allowing our users to settle in with confidence and ease.
-
-**Key Services & Features:**
-
-* **Verified Flats & PGs:** A curated marketplace of broker-free rental properties. Each listing is verified to provide transparent pricing and accurate details.
-
-* **Appliance Rentals:** An affordable service for renting essential home appliances like air conditioners, refrigerators, and washing machines.
-
-* **Local Service Directory:** A vetted network of household service providers, including maids and tiffin services, rated and reviewed by the community.
-
-* **Community Marketplace (Unique Feature):** A peer-to-peer platform empowering residential owners to **list, sell, or rent** their own new or used items and appliances. This feature allows residents to earn extra income from their assets and provides renters with hyper-local, affordable, and flexible options not available in any other app.
+- Focused on strengthening core Python and ML skills
+- Gaining practical experience as a Data Science Intern
+- Reach me at: **csds22092@glbitm.ac.in**
 
 ---
 
-<div align="center">
+### Tech Stack
 
-## Technology & Implementation
+**Languages & Core Libraries:**
+<p>
+    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+</p>
 
-</div>
-
-This project is a static landing page built with a modern, utility-first approach to ensure a responsive and fast user experience.
-
-* **Structure:** HTML5
-* **Styling:** Tailwind CSS
-* **Interactivity:** Vanilla JavaScript
-* **Assets:** Font Awesome (Icons) & Google Fonts (Typography)
+**Development Environments:**
+<p>
+    <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+</p>
 
 ---
 
-<div align="center">
+### Projects & Portfolio
 
-## Getting Started
+I believe in **learning by doing**. These projects highlight my learning journey and practical skills:
 
-</div>
+| Project Name                                               | Description                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**BachNest**](https://github.com/harshu0612/bachnest)     | A web platform designed to solve the core challenges for newcomers in **Greater Noida**. It provides a unified ecosystem for finding verified flats, renting appliances, and connecting with trusted local services, featuring a unique community marketplace for residents to rent or sell items. |
+| [**Basicpython**](https://github.com/harshu0612/Basicpython) | A repository documenting my foundational journey in Python, covering core concepts, data types, and data structures—a stepping stone into the world of data science.                                                                                                                            |
 
-To run this project locally:
+---
 
-1.  Clone the repository:
-    ```sh
-    git clone [https://github.com/your-username/bachnest.git](https://github.com/your-username/bachnest.git)
-    ```
-2.  Navigate into the project directory:
-    ```sh
-    cd bachnest
-    ```
-3.  Open the `index.html` file in any modern web browser.
+### 📊 GitHub Stats
+
+<p align="center">
+  <i>A note on my language stats: While "Jupyter Notebook" is prominent, it reflects my focus on exploratory data analysis and iterative modeling. A significant portion of my Python scripting and backend logic is developed in VS Code.</i>
+</p>
+<p align="center">
+  <a href="https://github.com/HarshhGoel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshhGoel&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/HarshhGoel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshhGoel&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages Used" />
+  </a>
+</p>
+
+---
+
+### Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/harsh-goel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:csds22092@glbitm.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
