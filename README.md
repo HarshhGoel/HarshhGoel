@@ -36,13 +36,13 @@ My primary interests lie in data analysis and machine learning. I enjoy working 
 
 ### Projects & Portfolio
 
-I believe in **learning by doing**. These projects highlight my learning journey, practical skills, and personal initiatives:
+I believe in **learning by doing**. These projects highlight my learning journey and practical skills:
 
 | Project Name                                               | Description                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Dwello**](https://github.com/harshu0612/Dwello)     | A **personal initiative and inspiration project** designed to solve core challenges for newcomers in **Greater Noida**. Dwello provides a **unified ecosystem** for discovering verified flats, renting appliances, and connecting with trusted local services. It also features a **community marketplace** for residents to buy, sell, or rent essentials. This project reflects my commitment to practical problem-solving and creating tools that address real-world needs. |
+| [**Dwello**](https://github.com/harshu0612/Dwello)     | A web platform designed to solve the core challenges for newcomers in **Greater Noida**. It provides a unified ecosystem for finding verified flats, renting appliances, and connecting with trusted local services, featuring a unique community marketplace for residents to rent or sell items. |
 | [**Basicpython**](https://github.com/harshu0612/Basicpython) | A repository documenting my foundational journey in Python, covering core concepts, data types, and data structures—a stepping stone into the world of data science.                                                                                                                            |
-| [**Coding Interview Questions**](https://github.com/harshu0612/coding-interview-questions) | A curated collection of Python solutions for frequently asked coding interview problems. Covers string, number, and logic-based challenges with **clean, beginner-friendly implementations**, designed to strengthen programming fundamentals and prepare for technical interviews.                                                                                                     |
+| [**Coding Interview Questions**](https://github.com/harshu0612/coding-interview-questions) | A curated collection of Python solutions for frequently asked coding interview problems. Covers string, number, and logic-based challenges with clean and beginner-friendly implementations.                                                                                                     |
 
 ---
 
