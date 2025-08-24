@@ -9,6 +9,8 @@
 
 I'm currently in my final year at **G.L. Bajaj Institute of Technology & Management**, pursuing a degree in engineering. As a **Data Science Intern at Ducat**, I am translating academic concepts into hands-on, real-world applications.
 
+In addition, I am working on **Dwello**, a web platform designed to solve core challenges for newcomers in Greater Noida. It provides a unified ecosystem for finding verified flats, renting appliances, and connecting with trusted local services, featuring a community marketplace for residents to rent or sell essentials.
+
 My primary interests lie in data analysis and machine learning. I enjoy working across the full data lifecycle—from cleaning and exploring data with **Pandas** to building predictive models.
 
 - Focused on strengthening core Python and ML skills
