@@ -42,6 +42,7 @@ I believe in **learning by doing**. These projects highlight my learning journey
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**Dwello**](https://github.com/harshu0612/Dwello)     | A web platform designed to solve the core challenges for newcomers in **Greater Noida**. It provides a unified ecosystem for finding verified flats, renting appliances, and connecting with trusted local services, featuring a unique community marketplace for residents to rent or sell items. |
 | [**Basicpython**](https://github.com/harshu0612/Basicpython) | A repository documenting my foundational journey in Python, covering core concepts, data types, and data structures—a stepping stone into the world of data science.                                                                                                                            |
+| [**Coding Interview Questions**](https://github.com/harshu0612/coding-interview-questions) | A curated collection of Python solutions for frequently asked coding interview problems. Covers string, number, and logic-based challenges with clean and beginner-friendly implementations.                                                                                                     |
 
 ---
 
